@@ -4,7 +4,7 @@
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--u2bcoOHC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/9da6rnlxgxq8fv8degu4.png" width="550" title="hover text">
 </p>
 
-Total problems = 110
+Total problems = 100+
 
 ### Directory Structure
 
@@ -19,4 +19,6 @@ Total problems = 110
    ├──STACK (2)
    ├──TREE (27)
    ├──TWO POINTERS (14)
+   ├──DYNAMIC PROGRAMMING
+   ├──GEOMETRY
 ```
